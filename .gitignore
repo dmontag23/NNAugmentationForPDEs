@@ -3,6 +3,9 @@
 *.jpg
 *.png
 
+# Any xml files
+*.xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
